@@ -1,7 +1,7 @@
 {
  "client": "levelsrx",
- "generated_at": "2026-09-16T13:38:05-05:00",
- "generated_at_ct": "1:38pm",
+ "generated_at": "2026-09-16T17:31:26-05:00",
+ "generated_at_ct": "5:31pm",
  "window": {
   "start": "2026-09-09",
   "end": "2026-09-15"
@@ -209,17 +209,17 @@
    }
   },
   "today": {
-   "offered": 27,
-   "answered": 23,
-   "offered_live": 27,
-   "answered_live": 23,
-   "answered_in_sl": 13,
+   "offered": 43,
+   "answered": 41,
+   "offered_live": 43,
+   "answered_live": 41,
+   "answered_in_sl": 22,
    "short_abandoned": 1,
-   "sl_den": 27,
-   "sl": 51.85,
-   "sl_answered_only": 50.0,
-   "asa_s": 136.5,
-   "aht_s": 569.1
+   "sl_den": 43,
+   "sl": 53.49,
+   "sl_answered_only": 52.38,
+   "asa_s": 110.9,
+   "aht_s": 581.1
   }
  },
  "chat_informational": {
@@ -325,15 +325,15 @@
   },
   "today": {
    "offered": 0,
-   "answered": 16,
-   "offered_live": 16,
-   "answered_live": 16,
-   "answered_in_sl": 2,
+   "answered": 22,
+   "offered_live": 22,
+   "answered_live": 22,
+   "answered_in_sl": 6,
    "short_abandoned": 0,
-   "sl_den": 16,
+   "sl_den": 22,
    "sl_secs": 30,
-   "sl": 12.5,
-   "asa_s": 220.9,
+   "sl": 27.27,
+   "asa_s": 184.4,
    "aht_s": null,
    "hours_ct": "06:00-18:59"
   },
@@ -1986,49 +1986,49 @@
     1
    ],
    [
+    2,
+    2,
+    13347,
+    2,
+    2,
     0,
+    2
+   ],
+   [
+    8,
+    5,
+    443487,
+    8,
+    9,
     0,
+    9
+   ],
+   [
+    4,
     0,
+    897871,
+    4,
+    4,
     0,
+    4
+   ],
+   [
+    3,
+    1,
+    104964,
+    3,
     1,
     0,
     1
    ],
    [
+    1,
+    1,
+    7681,
+    1,
+    1,
     0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
+    1
    ],
    [
     0,
@@ -2101,10 +2101,10 @@
   2,
   2,
   1,
-  0,
-  0,
-  0,
-  0,
+  2,
+  1,
+  2,
+  1,
   0,
   0,
   0,
@@ -2113,9 +2113,9 @@
   0
  ],
  "email_live": {
-  "rec": 22,
-  "clo": 10,
-  "asof_ct": "1:28pm"
+  "rec": 30,
+  "clo": 15,
+  "asof_ct": "5:29pm"
  },
  "errors": [],
  "ok": true
