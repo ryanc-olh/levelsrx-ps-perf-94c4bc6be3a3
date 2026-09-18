@@ -1,7 +1,7 @@
 {
  "client": "levelsrx",
- "generated_at": "2026-09-18T07:39:57-05:00",
- "generated_at_ct": "7:39am",
+ "generated_at": "2026-09-18T13:33:07-05:00",
+ "generated_at_ct": "1:33pm",
  "window": {
   "start": "2026-09-11",
   "end": "2026-09-17"
@@ -209,17 +209,17 @@
    }
   },
   "today": {
-   "offered": 0,
-   "answered": 0,
-   "offered_live": 0,
-   "answered_live": 0,
-   "answered_in_sl": 0,
+   "offered": 24,
+   "answered": 12,
+   "offered_live": 24,
+   "answered_live": 12,
+   "answered_in_sl": 1,
    "short_abandoned": 0,
-   "sl_den": 0,
-   "sl": null,
-   "sl_answered_only": null,
-   "asa_s": null,
-   "aht_s": null
+   "sl_den": 24,
+   "sl": 4.17,
+   "sl_answered_only": 4.17,
+   "asa_s": 950.3,
+   "aht_s": 850.0
   }
  },
  "chat_informational": {
@@ -323,7 +323,20 @@
     "hours_ct": "06:00-18:59"
    }
   },
-  "today": null,
+  "today": {
+   "offered": 0,
+   "answered": 12,
+   "offered_live": 12,
+   "answered_live": 12,
+   "answered_in_sl": 0,
+   "short_abandoned": 0,
+   "sl_den": 12,
+   "sl_secs": 30,
+   "sl": 0.0,
+   "asa_s": 1447.1,
+   "aht_s": null,
+   "hours_ct": "06:00-18:59"
+  },
   "hours_ct": "06:00-18:59 CT",
   "caveat": "business-hours window only; does NOT exclude chats answered the next day, so SL/ASA here are not comparable to the dashboard's Zoho-sourced chat figures"
  },
@@ -1853,6 +1866,224 @@
     0,
     0
    ]
+  ],
+  "2026-09-18": [
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    2,
+    1,
+    450614,
+    2,
+    2,
+    0,
+    2
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1
+   ],
+   [
+    4,
+    0,
+    1884983,
+    4,
+    5,
+    0,
+    5
+   ],
+   [
+    2,
+    0,
+    2173960,
+    2,
+    5,
+    0,
+    5
+   ],
+   [
+    3,
+    0,
+    4716978,
+    3,
+    9,
+    0,
+    9
+   ],
+   [
+    1,
+    0,
+    2177340,
+    1,
+    2,
+    0,
+    2
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
   ]
  },
  "hourly_chat_today": [
@@ -1865,11 +2096,11 @@
   0,
   0,
   0,
-  0,
-  0,
-  0,
-  0,
-  0,
+  2,
+  2,
+  2,
+  3,
+  3,
   0,
   0,
   0,
@@ -1882,9 +2113,9 @@
   0
  ],
  "email_live": {
-  "rec": 5,
-  "clo": 23,
-  "asof_ct": "7:37am"
+  "rec": 14,
+  "clo": 24,
+  "asof_ct": "1:30pm"
  },
  "errors": [],
  "ok": true
