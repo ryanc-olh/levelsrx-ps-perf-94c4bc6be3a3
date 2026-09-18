@@ -1,7 +1,7 @@
 {
  "client": "levelsrx",
- "generated_at": "2026-09-18T17:34:06-05:00",
- "generated_at_ct": "5:34pm",
+ "generated_at": "2026-09-18T21:29:02-05:00",
+ "generated_at_ct": "9:29pm",
  "window": {
   "start": "2026-09-11",
   "end": "2026-09-17"
@@ -209,17 +209,17 @@
    }
   },
   "today": {
-   "offered": 38,
-   "answered": 24,
-   "offered_live": 38,
-   "answered_live": 24,
+   "offered": 42,
+   "answered": 29,
+   "offered_live": 42,
+   "answered_live": 29,
    "answered_in_sl": 6,
    "short_abandoned": 0,
-   "sl_den": 38,
-   "sl": 15.79,
-   "sl_answered_only": 15.79,
-   "asa_s": 804.9,
-   "aht_s": 857.1
+   "sl_den": 42,
+   "sl": 14.29,
+   "sl_answered_only": 14.29,
+   "asa_s": 905.7,
+   "aht_s": 915.5
   }
  },
  "chat_informational": {
@@ -325,15 +325,15 @@
   },
   "today": {
    "offered": 0,
-   "answered": 17,
-   "offered_live": 17,
-   "answered_live": 17,
+   "answered": 19,
+   "offered_live": 19,
+   "answered_live": 19,
    "answered_in_sl": 2,
    "short_abandoned": 0,
-   "sl_den": 17,
+   "sl_den": 19,
    "sl_secs": 30,
-   "sl": 11.76,
-   "asa_s": 1182.1,
+   "sl": 10.53,
+   "asa_s": 1194.7,
    "aht_s": null,
    "hours_ct": "06:00-18:59"
   },
@@ -2022,22 +2022,22 @@
     5
    ],
    [
-    2,
+    3,
     1,
-    606574,
-    2,
-    4,
+    1541094,
+    3,
+    7,
     0,
-    4
+    7
    ],
    [
+    4,
     0,
+    6806865,
+    4,
+    1,
     0,
-    0,
-    0,
-    0,
-    0,
-    0
+    1
    ],
    [
     0,
@@ -2104,8 +2104,8 @@
   3,
   0,
   1,
-  0,
-  0,
+  1,
+  1,
   0,
   0,
   0,
@@ -2113,9 +2113,9 @@
   0
  ],
  "email_live": {
-  "rec": 20,
-  "clo": 30,
-  "asof_ct": "5:30pm"
+  "rec": 28,
+  "clo": 44,
+  "asof_ct": "9:27pm"
  },
  "errors": [],
  "ok": true
