@@ -1,7 +1,7 @@
 {
  "client": "levelsrx",
- "generated_at": "2026-09-18T01:28:27-05:00",
- "generated_at_ct": "1:28am",
+ "generated_at": "2026-09-18T05:21:34-05:00",
+ "generated_at_ct": "5:21am",
  "window": {
   "start": "2026-09-11",
   "end": "2026-09-17"
@@ -1881,6 +1881,11 @@
   0,
   0
  ],
+ "email_live": {
+  "rec": null,
+  "clo": 4,
+  "asof_ct": "5:19am"
+ },
  "errors": [],
  "ok": true
 }
